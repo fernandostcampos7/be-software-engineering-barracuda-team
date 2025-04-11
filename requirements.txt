@@ -5,3 +5,4 @@ flask_cors
 python-dotenv
 gunicorn
 flask-migrate
+psycopg2-binary
